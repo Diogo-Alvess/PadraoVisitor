@@ -32,4 +32,6 @@ public class VeiculoVisitor implements Visitor {
                 ", cargaMaxima=" + caminhao.getCargaMaxima() +
                 '}';
     }
+
+
 }
